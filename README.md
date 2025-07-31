@@ -2,9 +2,7 @@
 
 My name is Blaine. I am a graduate student at the University of Kentucky and I have been employed at the Sanders Brown Center on Aging since 2017. My research specialty is intravital imaging of mouse models of dementia and field electrophysiology. Through the completion of various experiments, I have developed a few applications that streamline challenging functional analyses of observed brain activity. Some of those analyses include an activity based cell detection algorithm that is especially useful for segmenting subcompartments of astrocytes. From this a ubiquitous filtering tool was also developed, as well as a signal analysis and event detection tool useful for cell network synchronicity analysis. 
 
-I have also been developing a tool that makes comparisions between stimulation induced vascular motion and local perivascular cell signaling. I named this tool LAVA (Localized Analysis of Vascular Astrocytes) after its application in measuring astrocyte endfoot activity around cerebral arterioles.
-
-All of these tools are continuous "works in progress" and I welcome any collaboration for the improvement of these projects!
+I also developed a tool that makes comparisions between stimulation induced vascular motion and local perivascular cell signaling. I named this tool LAVA (Localized Analysis of Vascular Astrocytes) after its use in measuring astrocyte endfoot activity around cerebral arterioles.
 
 <!--
 **BlaineWeiss/BlaineWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
